@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class fristeam {
+public class CowFrisbeeTeam {
 	
 	private static long[][] dp;
 	private static int[] R_i;

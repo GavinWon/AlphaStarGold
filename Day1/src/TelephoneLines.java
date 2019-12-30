@@ -1,7 +1,7 @@
 import java.util.*;
 @SuppressWarnings("unchecked")
 
-public class phoneLine {
+public class TelephoneLines {
 	
 	public static class pair implements Comparable<pair> {
 		ArrayList<Integer> cables;

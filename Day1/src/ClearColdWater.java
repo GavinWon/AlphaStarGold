@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class coldwat {
+public class ClearColdWater {
 	
 	static int[][] connections; //adjencylist
 	static int[] parents;
